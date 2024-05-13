@@ -1,4 +1,5 @@
-# otodom_sales_analysis
+# otodom_sales_analysis ![image](https://github.com/ssiddhantam1/otodom_sales_analysis/assets/112921572/72063339-6ed9-498f-bcb8-c534230bb74d)
+
 <img width="781" alt="Screenshot 2024-05-13 at 9 53 55 AM" src="https://github.com/ssiddhantam1/otodom_sales_analysis/assets/112921572/d995150e-5032-4cde-81cd-774d2e332911">
 
 
