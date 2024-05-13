@@ -1,5 +1,5 @@
 # otodom_sales_analysis
-![image](https://github.com/ssiddhantam1/otodom_sales_analysis/assets/112921572/9fe3fe8b-af27-4bb7-8dc8-585b6d8c0ee3)
+![image](https://github.com/ssiddhantam1/otodom_sales_analysis/assets/112921572/4d0bc036-75d9-474d-9729-0260ec37bd32)
 
 # Data Source
 Dataset used in this analysis was acquired from a very trusted online source called Brightspace.
